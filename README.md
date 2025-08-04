@@ -9,7 +9,10 @@ A fun and interactive bubble-clicking game built using HTML, CSS, and JavaScript
 [Click here to play the game](https://anuj-p-06.github.io/bubble_game/)
 ---
 
+
+
 ## 📂 Project Structure
+
 bubble_game/
 ├── index.html # Main HTML structure
 ├── styles.css # Styling for layout and components
