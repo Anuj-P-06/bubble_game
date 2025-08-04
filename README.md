@@ -6,7 +6,7 @@ A fun and interactive bubble-clicking game built using HTML, CSS, and JavaScript
 
 ## 🔗 Live Demo
 
-[Click here to play the game](#) *(https://anuj-p-06.github.io/bubble_game/)*
+[Click here to play the game](https://anuj-p-06.github.io/bubble_game/)
 ---
 
 ## 📂 Project Structure
@@ -43,8 +43,6 @@ bubble_game/
 
 ![Bubble Game Screenshot]
 <img width="1918" height="910" alt="Image" src="https://github.com/user-attachments/assets/7d4ba101-08f5-4247-a2c3-bea5459375a1" />
-  
-*Replace with actual screenshot once available.*
 
 ---
 
